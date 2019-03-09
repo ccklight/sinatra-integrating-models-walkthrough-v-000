@@ -13,6 +13,5 @@ class App < Sinatra::Base
 
       erb :results
     end
-    erb :results
-  end
+  
 end
